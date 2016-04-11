@@ -2,5 +2,3 @@
 
 
 print 'Hello Ahmed Safwat'
-
-print "Anything"
